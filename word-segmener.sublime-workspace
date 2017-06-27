@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conce",
+				"concept_filter"
+			],
+			[
+				"ext",
+				"extend_concept"
+			],
+			[
+				"base_",
+				"base_concept_like"
+			],
+			[
+				"each",
+				"each_line"
+			],
+			[
+				"dump",
+				"dump_training_to_text"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"number",
+				"numberDeletedChecked"
+			],
+			[
+				"num",
+				"numberModifiedSkipped"
+			],
+			[
+				"numberSki",
+				"numberSkipped"
+			],
+			[
+				"numberSkip",
+				"numberSkippedChecked"
+			],
+			[
+				"numberMo",
+				"numberModifiedChecked"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/project/Chatbot/word-segmenter"
+	],
+	"file_history":
+	[
+		"/D/project/Chatbot/botdialog/run_export_test_case.sh",
+		"/D/project/Chatbot/botdialog/run_after_submit.sh",
+		"/D/project/Chatbot/botdialog/run_after_login.sh",
+		"/D/project/Chatbot/botdialog/Engine.py",
+		"/D/project/Chatbot/botdialog/Pattern.py",
+		"/D/project/Chatbot/botdialog/TestChatbotResponse.java",
+		"/D/project/Chatbot/botdialog/Dialog.py",
+		"/D/project/Chatbot/botdialog/test_case/tiebraker.txt",
+		"/D/project/Chatbot/botdialog/sort_line_by_length.sh",
+		"/D/project/Chatbot/botdialog/run_iteration.sh",
+		"/D/project/Chatbot/botdialog/run_test.sh",
+		"/D/project/Chatbot/botdialog/run_dump_to_test_case.sh",
+		"/D/project/Chatbot/botdialog/run_ingest_training_data.sh",
+		"/D/project/database-tool/load_dialog.py",
+		"/D/project/database-tool/index.html",
+		"/D/project/Chatbot/botreview/controllers/review-data.js",
+		"/D/project/Chatbot/botreview/public/review-data.html",
+		"/D/project/Chatbot/botreview/public/javascripts/review-data.js",
+		"/D/project/database-tool/public/javascripts/editable.js",
+		"/D/project/Chatbot/botreview/app.js",
+		"/D/project/Chatbot/botreview/controllers/controller-mustache.js",
+		"/D/project/database-tool/public/javascripts/table-javascript.js",
+		"/D/project/Chatbot/botdialog/msxiaoiceapi/headers.txt",
+		"/D/project/Chatbot/botdialog/msxiaoiceapi/tmp/response.txt",
+		"/D/project/Chatbot/botdialog/msxiaoiceapi/xiaoiceapi.py",
+		"/D/project/Chatbot/botdialog/chat_simulation.py",
+		"/D/project/Chatbot/botdialog/msxiaoiceapi/headers.txt.bak",
+		"/D/project/Chatbot/botreview/re.js",
+		"/D/project/Chatbot/botdialog/msxiaoiceapi/headers.txt.newe",
+		"/D/project/Chatbot/botreview/validate_input.js",
+		"/D/project/Chatbot/botreview/xml_parsing.js",
+		"/D/project/Chatbot/botreview/parse_xml.html",
+		"/D/project/Chatbot/botreview/test-css.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current_date",
+			"\t\t\n",
+			"pat_self_tag",
+			"deleted",
+			" <tr>\n                                        <td><div class=\"checkbox\"><label><input name=\"option-3\" type=\"checkbox\" value=\"\"></label></div></td>\n                                        <td><div class=\"checkbox\"><label><input name=\"option-3\" type=\"checkbox\" value=\"\"></label></div></td></tr>\n                                <tr>\n                                        <td><div class=\"checkbox\"><label><input name=\"option-4\" type=\"checkbox\" value=\"\"></label></div></td>\n                                        <td><div class=\"checkbox\"><label><input name=\"option-4\" type=\"checkbox\" value=\"\"></label></div></td></tr>",
+			"                                        <"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "word-segmener.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -40,6 +40,7 @@ public class Segmenter {
         }
         System.out.println("Have loaded dictionary into memory...");
     }
+
     public static String cut( String string){
         Integer sub_str_length;
         String str;
