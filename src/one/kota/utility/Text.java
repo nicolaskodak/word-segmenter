@@ -10,8 +10,8 @@ public class Text {
     public static void main(String[] args) throws Exception{
         // testTransformString();
         // testSplitString();
-        // testTrimTag();
-        testReduceMandarinSpace();
+        testTrimTag();
+        // testReduceMandarinSpace();
     }
 
     public static String transformString( String string){
@@ -96,17 +96,17 @@ public class Text {
         Matcher matcher;
         matcher = pattern.matcher( string );
         while( matcher.find() ){
-            System.out.println( "matcher.group() => " + matcher.group(1) );
-            trimmedString += matcher.group();
+            //System.out.println( "matcher.group() => " + matcher.group(1) );
+            trimmedString += matcher.group(1);
         }
         return trimmedString;
     }
 
     public static void testTrimTag(){
         String string = "<pattern>這 是 我 jessica</pattern>";
-        //System.out.println( "before trim => " + string);
+        System.out.println( "before trim => " + string);
         string = trimTag( string );
-        //System.out.println( "after trim => " + string);
+        System.out.println( "after trim => " + string);
     }
 
     public static String reduceMandarinSpace(String string){
