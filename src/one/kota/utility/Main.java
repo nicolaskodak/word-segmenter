@@ -16,9 +16,11 @@ public class Main {
         HashMap<Integer, HashSet<String>> dictionary = Segmenter.dictionary;
 
         //String[] strArr = { "hi你是?", "hello啊!", "人  呢~   ", "超~nice to 認識you啊!"};
-        String string = "超~nice to 認識you啊!";
+        // String string = "超~nice to 認識you啊!";
+        String string = "明天天氣會好嗎";
         //String[] segStrArr = new String[ strArr.length ];
-        System.out.println( "After segmentation=> " + Segmenter.cut( string ) );
+        System.out.println( "After forward cut => " + Segmenter.forwardCut( string ) );
+        System.out.println( "After backward cut => " + Segmenter.backwardCut( string ) );
     }
 }
 
